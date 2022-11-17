@@ -1,1 +1,3 @@
-# School_District_Analysis
+# Summarize Your Findings
+
+During my analysis, I discovered that reading scores tend to be higher than math scores on average but that school type has no significant impact on scores. I think it would be very worthwhile to look into average reading and math scores for each school. This would involve using the groupby function to group by school name and the mean function to find the average scores for each school. This would tell us which schools could use some improvement in their education system. It would also be worthwhile to compare budgets for each school and to look into whether or not that appears to have a signifcant impact on the average scores for those schools. Maybe certain schools have low scores because they don't have enough money being allocated to them. Or maybe they are being allocated more money than other schools and we might want to look into different reasons for why their scores may be so low. 
